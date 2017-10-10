@@ -1,5 +1,5 @@
 ﻿SatellaWave - version 0.1 Beta
-By LuigiBlood
+By @LuigiBlood
 
 -----
 This is the full version of SatellaWave, and pretty different of the Lite version:
